@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
-* Студент: [Александр Хорош](https://up.htmlacademy.ru/javascript/23/user/1669351).
-* Наставник: `Неизвестно`.
+- Студент: [Александр Хорош](https://up.htmlacademy.ru/javascript/23/user/1669351).
+- Наставник: [Евгений Карпов] (https://htmlacademy.ru/profile/id70583).
 
 ---
 
